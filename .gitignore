@@ -7,7 +7,8 @@ data/
 *.csv
 secret.py
 .vscode/
-
+.undo/
+.swapfiles/
 ### macOS ###
 # General
 .DS_Store
